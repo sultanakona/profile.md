@@ -12,11 +12,24 @@
 ---
 
 ## 🚀 About Me
-- 🏆 Passionate Full Stack Developer specializing in <b>Markdown, Web, and Backend</b>.
-- 💡 I solve complex problems with simple, efficient, and elegant solutions.
-- 🤝 Open to jobs, collaborations, and making impactful things for the real world.
-- 🌎 Fluent communication, strong work ethic, always eager to learn something new!
+Hi, I’m Sultana Parvin Kona, a passionate Computer Science student specializing in Machine Learning, Artificial Intelligence, and Python Development.
+I love transforming real-world data into meaningful insights and building predictive models that solve practical problems.
 
+Currently, I am completing my B.Sc. in CSE at the Bangladesh University of Business & Technology (BUBT) and actively learning:
+
+Machine Learning & Deep Learning (Regression, Classification, Random Forest, XGBoost, LSTM, CNN, Seq2Seq)
+
+Python Programming for AI & Data Analysis
+
+Data Preprocessing, Feature Engineering & Visualization (NumPy, Pandas, Matplotlib, Seaborn)
+
+Natural Language Processing (NLP) & Neural Machine Translation
+
+React & React Native (Basic)
+
+Microprocessors & Microcontrollers (Basics)
+
+Android Development & Docker (Beginner)
 ---
 
 ## 🛠️ My Tech Toolbox
