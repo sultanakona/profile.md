@@ -11,26 +11,27 @@
 
 ---
 
-## 🚀 About Me
-Hi, I’m Sultana Parvin Kona, a passionate Computer Science student specializing in Machine Learning, Artificial Intelligence, and Python Development.
-I love transforming real-world data into meaningful insights and building predictive models that solve practical problems.
+## About Me 
 
-Currently, I am completing my B.Sc. in CSE at the Bangladesh University of Business & Technology (BUBT) and actively learning:
+I am Sultana Parvin Kona, an enthusiastic and results-focused Computer Science student with a strong interest in Machine Learning and Artificial Intelligence. I enjoy extracting meaningful insights from data and transforming those insights into predictive models and practical solutions. I believe in writing clean, reusable, and scalable code, and I take full ownership of the projects I work on.
 
-Machine Learning & Deep Learning (Regression, Classification, Random Forest, XGBoost, LSTM, CNN, Seq2Seq)
+I am currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Bangladesh University of Business & Technology (BUBT). I am actively building expertise in the following areas:
 
-Python Programming for AI & Data Analysis
+- Machine Learning & Deep Learning: Regression, Classification, Random Forest, XGBoost, LSTM, CNN, sequence-to-sequence models  
+- Python programming and libraries: NumPy, Pandas, Scikit‑Learn, TensorFlow, PyTorch  
+- Data workflows: Data cleaning, preprocessing, feature engineering, model evaluation, and visualization (Matplotlib, Seaborn)  
+- Natural Language Processing (NLP) and Neural Machine Translation techniques  
+- Frontend & Mobile (basic): React, React Native  
+- Containerization & tooling (beginner): Docker, Git, environment management
 
-Data Preprocessing, Feature Engineering & Visualization (NumPy, Pandas, Matplotlib, Seaborn)
+I enjoy taking ownership of large projects, working actively within teams, and preparing clear documentation to help teammates onboard quickly. I am eager to take on new challenges and contribute to open source.
 
-Natural Language Processing (NLP) & Neural Machine Translation
+Let’s solve real problems together — I’m ready to discuss ideas, build prototypes, and deliver rapid, valuable results.
 
-React & React Native (Basic)
-
-Microprocessors & Microcontrollers (Basics)
-
-Android Development & Docker (Beginner)
----
+Contact:
+- GitHub: https://github.com/sultanakona  
+- Email: your@email.com  
+- LinkedIn / Portfolio: (add links)
 
 ## 🛠️ My Tech Toolbox
 
