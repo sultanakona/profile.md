@@ -1,6 +1,6 @@
 <!-- Polished GitHub Profile README for sultanakona | Recruiter ready -->
 
-<h1 align="center">👋 Hi, I'm Sultan Akona</h1>
+<h1 align="center">👋 I'm Sultana Parvin Kona</h1>
 <p align="center">
   <img src="https://github.com/sultanakona.png" width="130" alt="Sultan Akona"/>
 </p>
