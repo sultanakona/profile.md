@@ -11,26 +11,39 @@
 
 ---
 
-## About Me 
+# About Me — Sultana Parvin Kona
 
-I am Sultana Parvin Kona, an enthusiastic and results-focused Computer Science student with a strong interest in Machine Learning and Artificial Intelligence. I enjoy extracting meaningful insights from data and transforming those insights into predictive models and practical solutions. I believe in writing clean, reusable, and scalable code, and I take full ownership of the projects I work on.
+I am Sultana Parvin Kona, an enthusiastic and results-oriented Computer Science student with a strong focus on Machine Learning and Artificial Intelligence. I enjoy extracting meaningful insights from real-world data and turning those insights into predictive models and practical solutions. I believe in writing clean, reusable, and scalable code, and I take ownership of every project I work on.
 
-I am currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Bangladesh University of Business & Technology (BUBT). I am actively building expertise in the following areas:
+## Education & Current Focus
+- Pursuing B.Sc. in Computer Science and Engineering (CSE) at Bangladesh University of Business & Technology (BUBT).
+- Actively advancing skills in Machine Learning and Deep Learning, with hands-on practice across supervised and sequence models.
 
-- Machine Learning & Deep Learning: Regression, Classification, Random Forest, XGBoost, LSTM, CNN, sequence-to-sequence models  
-- Python programming and libraries: NumPy, Pandas, Scikit‑Learn, TensorFlow, PyTorch  
-- Data workflows: Data cleaning, preprocessing, feature engineering, model evaluation, and visualization (Matplotlib, Seaborn)  
-- Natural Language Processing (NLP) and Neural Machine Translation techniques  
-- Frontend & Mobile (basic): React, React Native  
-- Containerization & tooling (beginner): Docker, Git, environment management
+## Technical Skills
+- Machine Learning & Deep Learning: Regression, Classification, Random Forest, XGBoost, LSTM, CNN, sequence-to-sequence models
+- Programming & Libraries: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
+- Data Workflows: Data cleaning, preprocessing, feature engineering, model evaluation, visualization (Matplotlib, Seaborn)
+- Natural Language Processing: Text preprocessing, embeddings, basic neural machine translation approaches
+- Web & Mobile (basic): React, React Native
+- DevOps & Tools (beginner): Docker, Git, environment & dependency management
 
-I enjoy taking ownership of large projects, working actively within teams, and preparing clear documentation to help teammates onboard quickly. I am eager to take on new challenges and contribute to open source.
+## How I Work
+- Problem-driven: I focus on understanding the core problem first, then design pragmatic, data‑driven solutions.
+- Iterative delivery: I build rapid prototypes, validate hypotheses, and refine models toward production readiness with attention to reproducibility and performance.
+- Code quality & documentation: I prioritize readable code, testing, and clear documentation so teams can onboard quickly and maintain momentum.
+- Team collaboration: I communicate clearly, contribute proactively, and take responsibility for delivering value on time.
 
-Let’s solve real problems together — I’m ready to discuss ideas, build prototypes, and deliver rapid, valuable results.
+## What I Offer
+- Practical Machine Learning experience and a continuous learning mindset.
+- Ownership of features and projects with a focus on measurable outcomes.
+- Willingness to contribute to open source and learn from peers.
+
+## Let's Work Together
+I enjoy taking on challenging problems and turning ideas into functioning solutions. If you have a project or opportunity where I can contribute, I’m eager to discuss ideas, prototype solutions, and deliver impact quickly.
 
 Contact:
-- GitHub: https://github.com/sultanakona  
-- Email: your@email.com  
+- GitHub: https://github.com/sultanakona
+- Email: your@email.com
 - LinkedIn / Portfolio: (add links)
 
 ## 🛠️ My Tech Toolbox
