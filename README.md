@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Engineer | Open Source Advocate | Fast Learner</b><br>
-  <i>Turning ideas into reality through code</i>
+  <b>ML/AI Enthusiast | Python Developer | CSE Student | Building predictive models and real-world ML projects.</i>
 </p>
 
 ---
