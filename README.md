@@ -1,12 +1,10 @@
-<!-- Polished GitHub Profile README for sultanakona | Recruiter ready -->
-
-<h1 align="center">👋 I'm Sultana Parvin Kona</h1>
+<h1 align="center" style="color:#0fa3c6;">👋 I'm Sultana Parvin Kona</h1>
 <p align="center">
   <img src="https://github.com/sultanakona.png" width="130" alt="Sultan Akona"/>
 </p>
 
 <p align="center">
-  <b>ML/AI Enthusiast | Python Developer | CSE Student | Building predictive models and real-world ML projects.</i>
+  <b>ML/AI Enthusiast | Python Developer | CSE Student | Building predictive models and real-world ML projects.</b>
 </p>
 
 ---
