@@ -1,103 +1,136 @@
-<h1 align="center" style="color:#0fa3c6;">👋 I'm Sultana Parvin Kona</h1>
+<h1 align="center">👋 Hi, I'm Sultana Parvin Kona</h1>
+
 <p align="center">
-  <img src="https://github.com/sultanakona.png" width="130" alt="Sultan Akona"/>
+  <img src="https://github.com/sultanakona.png" width="130" alt="Sultana Parvin Kona"/>
 </p>
 
 <p align="center">
-  <b>ML/AI Enthusiast | Python Developer | CSE Student | Building predictive models and real-world ML projects.</b>
+  <b>
+    Machine Learning & AI Enthusiast • Python Developer • CSE Student  
+    <br/>
+    Passionate about building data-driven, real-world ML solutions
+  </b>
 </p>
 
 ---
 
-# About Me — Sultana Parvin Kona
+## 👩‍💻 About Me
 
-I am Sultana Parvin Kona, an enthusiastic and results-oriented Computer Science student with a strong focus on Machine Learning and Artificial Intelligence. I enjoy extracting meaningful insights from real-world data and turning those insights into predictive models and practical solutions. I believe in writing clean, reusable, and scalable code, and I take ownership of every project I work on.
+I am **Sultana Parvin Kona**, a motivated Computer Science & Engineering student with a strong interest in **Machine Learning** and **Artificial Intelligence**.  
+I enjoy working with real-world data, extracting meaningful insights, and transforming them into **predictive models** and **practical applications**.
 
-## Education & Current Focus
-- Pursuing B.Sc. in Computer Science and Engineering (CSE) at Bangladesh University of Business & Technology (BUBT).
-- Actively advancing skills in Machine Learning and Deep Learning, with hands-on practice across supervised and sequence models.
+I value **clean, reusable, and scalable code**, and I take full ownership of every project I work on—from idea to implementation.
 
-## Technical Skills
-- Machine Learning & Deep Learning: Regression, Classification, Random Forest, XGBoost, LSTM, CNN, sequence-to-sequence models
-- Programming & Libraries: Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
-- Data Workflows: Data cleaning, preprocessing, feature engineering, model evaluation, visualization (Matplotlib, Seaborn)
-- Natural Language Processing: Text preprocessing, embeddings, basic neural machine translation approaches
-- Web & Mobile (basic): React, React Native
-- DevOps & Tools (beginner): Docker, Git, environment & dependency management
+---
 
-## How I Work
-- Problem-driven: I focus on understanding the core problem first, then design pragmatic, data‑driven solutions.
-- Iterative delivery: I build rapid prototypes, validate hypotheses, and refine models toward production readiness with attention to reproducibility and performance.
-- Code quality & documentation: I prioritize readable code, testing, and clear documentation so teams can onboard quickly and maintain momentum.
-- Team collaboration: I communicate clearly, contribute proactively, and take responsibility for delivering value on time.
+## 🎓 Education & Current Focus
 
-## What I Offer
-- Practical Machine Learning experience and a continuous learning mindset.
-- Ownership of features and projects with a focus on measurable outcomes.
-- Willingness to contribute to open source and learn from peers.
+- 🎓 **B.Sc. in Computer Science & Engineering (CSE)**  
+  Bangladesh University of Business & Technology (BUBT)
+- 📚 Currently focusing on:
+  - Machine Learning & Deep Learning
+  - Model training, evaluation, and optimization
+  - Sequence models and real-world ML projects
 
-## Let's Work Together
-I enjoy taking on challenging problems and turning ideas into functioning solutions. If you have a project or opportunity where I can contribute, I’m eager to discuss ideas, prototype solutions, and deliver impact quickly.
+---
 
-Contact:
-- GitHub: https://github.com/sultanakona
-- Email: your@email.com
-- LinkedIn / Portfolio: (add links)
+## 🧠 Technical Skills
 
-## 🛠️ My Tech Toolbox
+### 🔹 Machine Learning & Deep Learning
+- Regression & Classification
+- Random Forest, XGBoost
+- CNN, LSTM, Seq2Seq Models
+
+### 🔹 Programming & Libraries
+- Python  
+- NumPy, Pandas  
+- Scikit-Learn  
+- TensorFlow, PyTorch  
+
+### 🔹 Data & ML Workflow
+- Data cleaning & preprocessing  
+- Feature engineering  
+- Model evaluation & validation  
+- Data visualization (Matplotlib, Seaborn)
+
+### 🔹 NLP
+- Text preprocessing  
+- Word embeddings  
+- Basic Neural Machine Translation (NMT)
+
+### 🔹 Web & Mobile (Basic)
+- React  
+- React Native  
+
+### 🔹 Tools & DevOps (Beginner)
+- Git & GitHub  
+- Docker  
+- Environment & dependency management
+
+---
+
+## ⚙️ How I Work
+
+- **Problem-driven approach** – Understand the problem before choosing models or tools  
+- **Iterative development** – Prototype → test → improve  
+- **Code quality first** – Clean, readable, and well-documented code  
+- **Team collaboration** – Clear communication and proactive contribution
+
+---
+
+## 🚀 What I Offer
+
+- Hands-on Machine Learning project experience  
+- Strong learning mindset and research interest  
+- Ownership of tasks with measurable outcomes  
+- Interest in open-source contribution and collaboration
+
+---
+
+## 🛠️ Tech Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <!-- Add more as you see fit -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-## 👨‍💻 What I Bring to Your Team
-
-- <b>Strong fundamentals :</b> Clean code, best practices, scalable solutions.
-- <b>Ownership & Dedication :</b> I treat every project as my own.
-- <b>Teamwork & Leadership :</b> Effective communicator, proactive team player.
-- <b>Open source minded :</b> Love sharing & learning, constantly contributing.
 
 ---
 
 ## 🏅 Achievements & Highlights
 
-- ⭐ Improved project docs for various open-source repos—making onboarding 50% faster.
-- 🏆 Consistently delivered high-impact features ahead of deadlines.
-- ✍️ Wrote technical content, readmes, and guides helping thousands of devs.
+- ⭐ Improved documentation for multiple projects and repositories  
+- 🏆 Delivered project features consistently within deadlines  
+- ✍️ Created clear READMEs and technical guides for better onboarding
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect
 
-- GitHub: [sultanakona](https://github.com/sultanakona)
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn](#)
-- Portfolio: [yourportfolio.com](#)
+- 🔗 GitHub: https://github.com/sultanakona  
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: (add your LinkedIn link)  
+- 🌐 Portfolio: (add your portfolio link)
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanakona&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sultanakona&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sultanakona&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sultanakona" height="150"/>
 </p>
 
 ---
 
-## 🤔 Why hire me?
-> Smart work, dedication, and a genuine desire to help teams & products win.  
-> Let’s build something awesome together!
+## 💡 Why Me?
 
----
+> I combine smart work, consistency, and a strong desire to create meaningful impact.  
+> Let’s build something valuable together 🚀
 
 <p align="center">
-  <b>Thanks for visiting!</b>  
+  <b>Thanks for visiting my profile!</b>
 </p>
